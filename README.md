@@ -3,7 +3,7 @@
 - 📫  You can reach me through [LinkedIn](https://www.linkedin.com/in/vianmok/).
 
 ## Programming Languages
-<img src='python-logo-master-v3-TM.png'/>
+<img src='python-logo-master-v3-TM.png' width='200'/>
 <!--
 **vianmei/vianmei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
