@@ -2,7 +2,8 @@
 - 🌱 I'm currently enrolled in the Skills Bootcamp in Data Science (Fundamentals) at HyperionDev.
 - 📫  You can reach me through [LinkedIn](https://www.linkedin.com/in/vianmok/).
 
-
+## Programming Languages
+<img src='python-logo-master-v3-TM.png'/>
 <!--
 **vianmei/vianmei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
